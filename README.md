@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Prarthana - product-minded student developer" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Prarthana Binu Kumar - creative technologist" width="100%" />
 </p>
 
 <p align="center">
@@ -11,22 +11,32 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BCA-Student-7C3AED?style=flat-square" alt="BCA student">
+  <img src="https://img.shields.io/badge/BCA-Final_Year-7C3AED?style=flat-square" alt="Final-year BCA student">
+  <img src="https://img.shields.io/badge/Add--ons-AI_%7C_Cybersecurity_%7C_Big_Data-2563EB?style=flat-square" alt="AI, Cybersecurity and Big Data">
   <img src="https://img.shields.io/badge/College-IT_Head-0F766E?style=flat-square" alt="College IT Head">
-  <img src="https://img.shields.io/badge/Focus-Product_%2B_Frontend-2563EB?style=flat-square" alt="Product and frontend">
   <img src="https://img.shields.io/badge/Open_to-Hackathons-F97316?style=flat-square" alt="Open to hackathons">
 </p>
 
-## About me
+## Hello
 
-I am a **BCA student and student technology leader** who enjoys turning real campus problems into thoughtful digital products. I work best where technology meets people: shaping the idea, designing the experience, building the interface, and presenting the final solution clearly.
+I'm **Prarthana Binu Kumar**, a final-year **Bachelor of Computer Applications student at Shree Devi College of Information Science**, with add-on study in **Artificial Intelligence, Cybersecurity, and Big Data**.
 
-My strongest edge is not only writing code. I can **frame a problem, earn attention, and make a technical idea easy to believe in**. That combination has helped me win debate and paper presentation competitions, reach the final round of an IT Manager competition, and serve as IT Head at college.
+I enjoy the complete product journey: understanding a problem, designing a clear experience, building the interface, and presenting the solution in a way people remember. My strongest combination is **technology, visual thinking, and persuasive communication**.
 
 - Building student-focused products with React and TypeScript
-- Interested in product thinking, responsible AI, accessibility, and calm interface design
-- Comfortable owning demos, pitches, documentation, and team communication
-- Looking to collaborate in hackathons where rapid prototyping and a strong final presentation matter
+- Exploring responsible AI, practical cybersecurity, data-driven products, and accessible design
+- Comfortable owning interface design, demos, pitches, documentation, and team communication
+- Looking for hackathon teams and early-career opportunities where creativity and execution both matter
+
+<p align="center">
+  <img src="assets/creative-process.svg" alt="My creative product process: understand, design, build and pitch" width="96%" />
+</p>
+
+## Academic focus
+
+| Artificial Intelligence | Cybersecurity | Big Data |
+| --- | --- | --- |
+| Grounded assistants, retrieval, responsible AI, and human-centered automation | Security-aware development, safe data handling, and resilient application design | Data organization, provenance, retrieval, and turning information into decisions |
 
 ## Selected work
 
@@ -73,12 +83,12 @@ React · TypeScript · Tailwind CSS · Electron · Capacitor
 
 ## What I bring to a team
 
-| Product | Technology | Communication |
+| Product and design | Technology | Communication |
 | --- | --- | --- |
 | Problem framing | React and TypeScript | Product pitches |
-| User-centered thinking | Responsive interfaces | Public speaking |
-| Feature prioritization | Git and GitHub | Technical presentations |
-| Demo planning | Testing and deployment | Team leadership |
+| User-centered interface thinking | Responsive web development | Public speaking |
+| Feature prioritization | Git, GitHub, testing, and deployment | Technical presentations |
+| Demo planning and visual storytelling | AI-assisted product development | Team leadership |
 
 ## Recognition and leadership
 
@@ -95,9 +105,9 @@ React · TypeScript · Tailwind CSS · Electron · Capacitor
 
 ## Current direction
 
-I am deepening my frontend engineering skills while learning how to build more reliable AI-assisted products. I care about the full journey from idea to demo: useful scope, credible implementation, clean presentation, and a story people remember.
+I am strengthening my frontend engineering skills while learning how AI, cybersecurity, and data can be combined in reliable products. I care about useful scope, credible implementation, thoughtful visual design, and a clear story.
 
-> **The kind of teammate I aim to be:** someone who can help build the product, explain why it matters, and present it with confidence.
+> **The teammate I aim to be:** someone who can help design the experience, build the product, explain why it matters, and present it with confidence.
 
 <p align="center">
   <a href="mailto:sunflower225566@gmail.com"><img src="https://img.shields.io/badge/Let's_build_something-sunflower225566%40gmail.com-4C1D95?style=for-the-badge" alt="Email Prarthana"></a>
