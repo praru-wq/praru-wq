@@ -1,9 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Prarthana - product-minded student developer">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset=".5" stop-color="#4c1d95"/><stop offset="1" stop-color="#0f766e"/></linearGradient><radialGradient id="r"><stop stop-color="#f0abfc" stop-opacity=".6"/><stop offset="1" stop-color="#f0abfc" stop-opacity="0"/></radialGradient></defs>
-<rect width="1200" height="380" rx="30" fill="url(#g)"/><circle cx="1070" cy="70" r="260" fill="url(#r)"/><circle cx="105" cy="350" r="170" fill="url(#r)" opacity=".5"/>
-<g fill="none" stroke="#fff" stroke-opacity=".1"><path d="M0 305 Q260 210 520 300 T1040 275 T1400 300"/><path d="M0 335 Q260 240 520 330 T1040 305 T1400 330"/></g>
-<text x="70" y="118" fill="#f5f3ff" font-family="Segoe UI,Arial,sans-serif" font-size="28" letter-spacing="5">HELLO, I'M</text>
-<text x="68" y="205" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="78" font-weight="750">Prarthana</text>
-<text x="72" y="260" fill="#ccfbf1" font-family="Segoe UI,Arial,sans-serif" font-size="30">Product-minded student developer and persuasive storyteller</text>
-<g transform="translate(72 298)" font-family="Segoe UI,Arial,sans-serif" font-size="16"><rect width="150" height="38" rx="19" fill="#fff" fill-opacity=".13"/><text x="75" y="25" text-anchor="middle" fill="#fff">BUILDING</text><rect x="164" width="150" height="38" rx="19" fill="#fff" fill-opacity=".13"/><text x="239" y="25" text-anchor="middle" fill="#fff">PITCHING</text><rect x="328" width="150" height="38" rx="19" fill="#fff" fill-opacity=".13"/><text x="403" y="25" text-anchor="middle" fill="#fff">LEADING</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-label="Hi, I am Prarthana Binu Kumar, a creative technologist">
+<style>
+@keyframes pop{0%{transform:translateY(18px);opacity:0}100%{transform:translateY(0);opacity:1}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes wave{0%,100%{transform:rotate(0deg)}30%{transform:rotate(14deg)}60%{transform:rotate(-8deg)}}
+.intro{animation:pop .8s ease-out both}.character{animation:float 4s ease-in-out infinite}.hand{transform-origin:982px 204px;animation:wave 1.8s ease-in-out infinite}
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset=".48" stop-color="#3b1d72"/><stop offset="1" stop-color="#0f766e"/></linearGradient>
+  <linearGradient id="jacket" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c4b5fd"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+  <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#172554"/><stop offset="1" stop-color="#0f766e"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#f0abfc" stop-opacity=".46"/><stop offset="1" stop-color="#f0abfc" stop-opacity="0"/></radialGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#020617" flood-opacity=".28"/></filter>
+</defs>
+<rect width="1200" height="500" rx="34" fill="url(#bg)"/>
+<circle cx="1050" cy="60" r="300" fill="url(#glow)"/><circle cx="70" cy="470" r="210" fill="url(#glow)" opacity=".48"/>
+<g fill="none" stroke="#fff" stroke-opacity=".08"><path d="M0 412 Q240 330 480 408 T960 382 T1320 405"/><path d="M0 448 Q240 366 480 444 T960 418 T1320 441"/></g>
+<g class="intro" font-family="Segoe UI,Arial,sans-serif">
+  <text x="66" y="96" fill="#ddd6fe" font-size="20" letter-spacing="5">FINAL-YEAR BCA STUDENT</text>
+  <text x="64" y="169" fill="#fff" font-size="57" font-weight="750">Prarthana Binu Kumar</text>
+  <text x="67" y="218" fill="#ccfbf1" font-size="25">Creative technologist • Product thinker • Confident storyteller</text>
+  <g transform="translate(66 254)">
+    <rect width="126" height="38" rx="19" fill="#fff" fill-opacity=".13"/><text x="63" y="25" text-anchor="middle" fill="#fff" font-size="15">AI</text>
+    <rect x="140" width="166" height="38" rx="19" fill="#fff" fill-opacity=".13"/><text x="223" y="25" text-anchor="middle" fill="#fff" font-size="15">CYBERSECURITY</text>
+    <rect x="320" width="148" height="38" rx="19" fill="#fff" fill-opacity=".13"/><text x="394" y="25" text-anchor="middle" fill="#fff" font-size="15">BIG DATA</text>
+  </g>
+  <text x="67" y="337" fill="#e2e8f0" font-size="20">I turn student problems into clear, useful digital experiences—</text>
+  <text x="67" y="370" fill="#e2e8f0" font-size="20">then pitch the idea with confidence.</text>
+  <g transform="translate(66 404)"><rect width="350" height="46" rx="23" fill="#fff" fill-opacity=".1" stroke="#fff" stroke-opacity=".2"/><circle cx="25" cy="23" r="7" fill="#5eead4"/><text x="47" y="30" fill="#fff" font-size="17">Building • Designing • Presenting</text></g>
+</g>
+<g class="character" filter="url(#shadow)">
+  <path d="M850 160c5-82 67-125 140-113 73 12 108 75 94 146-10 54-3 116 25 170H820c31-55 35-117 30-203z" fill="#1e172c"/>
+  <circle cx="954" cy="160" r="77" fill="#d89b79"/>
+  <path d="M876 151c2-67 43-99 90-94 51 5 82 39 77 101-19-18-35-40-42-66-26 33-64 54-125 59z" fill="#261b35"/>
+  <path d="M910 161q17-10 34 0M968 161q17-10 34 0" fill="none" stroke="#3f2c2c" stroke-width="4" stroke-linecap="round"/>
+  <path d="M946 190q14 13 29 0" fill="none" stroke="#9f4f5a" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="931" cy="161" r="4" fill="#241b1d"/><circle cx="988" cy="161" r="4" fill="#241b1d"/>
+  <path d="M916 206q39 32 77 0l20 31-97 1z" fill="#f4c7ad"/>
+  <path d="M873 352c2-79 28-126 82-129 55-3 94 42 100 129z" fill="url(#jacket)"/>
+  <path d="M951 225v112" stroke="#ede9fe" stroke-width="7" stroke-linecap="round"/>
+  <g class="hand"><path d="M1017 258q19-62 41-85c7-8 19-1 14 9l-18 31 19-19c8-8 20 3 12 12l-24 28 21-12c10-6 18 8 8 14l-38 28z" fill="#d89b79"/></g>
+  <g transform="translate(837 324)"><path d="M0 0h235l-22 112H22z" fill="url(#screen)" stroke="#a5f3fc" stroke-opacity=".45" stroke-width="2"/><rect x="-10" y="112" width="255" height="16" rx="8" fill="#cbd5e1"/><circle cx="118" cy="57" r="18" fill="none" stroke="#a7f3d0" stroke-width="3"/><path d="M110 57l6 6 12-14" fill="none" stroke="#a7f3d0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+<g class="intro" font-family="Segoe UI,Arial,sans-serif">
+  <path d="M772 78h260a20 20 0 0 1 20 20v70a20 20 0 0 1-20 20H902l-30 25 7-25H772a20 20 0 0 1-20-20V98a20 20 0 0 1 20-20z" fill="#fff"/>
+  <text x="902" y="119" text-anchor="middle" fill="#4c1d95" font-size="22" font-weight="700">Hi! I'm Prarthana.</text>
+  <text x="902" y="151" text-anchor="middle" fill="#475569" font-size="17">Let's build an idea people remember.</text>
+</g>
 </svg>
