@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/prarthana-introduction-animated-v3.gif" alt="Hi, I am Prarthana Binu Kumar. Student developer, creative thinker and confident storyteller. Design, build, pitch. Open to opportunities. Animated illustration with a gentle repeating wave and subtle hair movement." width="100%" />
+  <img src="assets/prarthana-introduction-refined-v4.gif" alt="Hi, I am Prarthana Binu Kumar. Student developer, creative thinker and confident storyteller. Design, build, pitch. Open to opportunities. Animated illustration with an independent wrist wave and gently swaying hair tips." width="100%" />
 </p>
 
 <p align="center">
