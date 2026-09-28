@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Prarthana - product-minded student developer">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset=".5" stop-color="#4c1d95"/><stop offset="1" stop-color="#0f766e"/></linearGradient><radialGradient id="r"><stop stop-color="#f0abfc" stop-opacity=".6"/><stop offset="1" stop-color="#f0abfc" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="380" rx="30" fill="url(#g)"/><circle cx="1070" cy="70" r="260" fill="url(#r)"/><circle cx="105" cy="350" r="170" fill="url(#r)" opacity=".5"/>
+<g fill="none" stroke="#fff" stroke-opacity=".1"><path d="M0 305 Q260 210 520 300 T1040 275 T1400 300"/><path d="M0 335 Q260 240 520 330 T1040 305 T1400 330"/></g>
+<text x="70" y="118" fill="#f5f3ff" font-family="Segoe UI,Arial,sans-serif" font-size="28" letter-spacing="5">HELLO, I'M</text>
+<text x="68" y="205" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="78" font-weight="750">Prarthana</text>
+<text x="72" y="260" fill="#ccfbf1" font-family="Segoe UI,Arial,sans-serif" font-size="30">Product-minded student developer and persuasive storyteller</text>
+<g transform="translate(72 298)" font-family="Segoe UI,Arial,sans-serif" font-size="16"><rect width="150" height="38" rx="19" fill="#fff" fill-opacity=".13"/><text x="75" y="25" text-anchor="middle" fill="#fff">BUILDING</text><rect x="164" width="150" height="38" rx="19" fill="#fff" fill-opacity=".13"/><text x="239" y="25" text-anchor="middle" fill="#fff">PITCHING</text><rect x="328" width="150" height="38" rx="19" fill="#fff" fill-opacity=".13"/><text x="403" y="25" text-anchor="middle" fill="#fff">LEADING</text></g>
+</svg>
